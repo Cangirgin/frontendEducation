@@ -1,0 +1,1 @@
+Frontend geliştirme üzerine kendi eğitim sürecimde öğrendiğim konuları ve uygulamaları paylaştığım bir repo. HTML, CSS, JavaScript ve diğer frontend teknolojileriyle ilgili notlar, örnekler ve kodlar içerir
